@@ -92,7 +92,7 @@ body {
 
 @media (max-width: 768px) {
       h1 {
-    font-size: 1.5em;       /* typical h2 size */
+    font-size: 1.17em;       /* typical h2 size */
     font-weight: bold;    /* optional: match h2 weight */
     margin: 0.75em 0;     /* optional: adjust spacing */
   }
