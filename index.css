@@ -89,11 +89,6 @@ body {
     text-decoration: none;
 }
 
-h1 {
-  font-size: 2em; /* default h1 size */
-  font-weight: bold;
-  margin: 0.67em 0;
-}
 
 @media (max-width: 768px) {
       h1 {
