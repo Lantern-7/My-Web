@@ -101,6 +101,9 @@ h1 {
     font-weight: bold;    /* optional: match h2 weight */
     margin: 0.75em 0;     /* optional: adjust spacing */
   }
+    .header {
+            margin: 7% 5%;
+    }
 
     .container {
         width: 90vw;
